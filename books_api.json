@@ -1,0 +1,112 @@
+books_api.json
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Before We Were Strangers",
+      "author": "Renee Carlino",
+      "datePublished": "2015-08-18",
+      "type": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "datePublished": "1960-07-11",
+      "type": "Fiction"
+    },
+    {
+      "id": 3, 
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "datePublished": "2012-01-10",
+      "type": "Fiction"
+    },
+    {
+      "id": 4, 
+      "title": "The Seven Husband of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "datePublished": "2017-06-13",
+      "type": "Fiction"
+    },
+    {
+      "id": 5,
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "datePublished": "2016-08-02",
+      "type": "Fiction"
+    },
+    {
+      "id": 6,
+      "title": "Everything We Never Had",
+      "author": "Randy Ribay",
+      "datePublished": "2024-08-26",
+      "type": "Fiction"
+    },
+    {
+      "id": 7, 
+      "title": "Surrounded by Liars",
+      "author": "Thomas Erikson",
+      "datePublished": "2024-04-25",
+      "type": "Non-Fiction"
+    },
+    {
+      "id": 8, 
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "datePublished": "2018-10-16",
+      "type": "Non-Fiction"
+    },
+    {
+      "id": 9,
+      "title": "How To Be Sad",
+      "author": "Helen Russel",
+      "price": "PHP 299.00",
+      "datePublished": "2021-03-04",
+      "type": "Non-Fiction"
+    },
+    {
+      "id": 10,
+      "title": "History is All You Left Me",
+      "author": "Adam Silvera",
+      "datePublished": "2017-01-17",
+      "type": "Fiction"
+    },
+    {
+      "id": 11,
+      "title": "Better Than the Movies",
+      "author": "Lynn Painter",
+      "datePublished": "2022-07-26",
+      "type": "Fiction"
+    },
+    {
+      "id": 12,
+      "title": "Darius the Great Is Not Okay",
+      "author": "Adib Khorram",
+      "datePublished": "2019-08-20",
+      "type": "Fiction"
+    },
+    {
+      "id": 13, 
+      "title": "The Inheritance Games",
+      "author": "Jennifer Lynn Barnes",
+      "datePublished": "2021-07-27",
+      "type": "Fiction"
+    },
+    {
+      "id": 14, 
+      "title": "They Both Die at the End",
+      "author": "Adam Silvera",
+      "datePublished": "2017-08-09",
+      "type": "Fiction"
+    },
+    {
+      "id": 15, 
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "datePublished": "2019-05-14",
+      "type": "Fiction"
+    }
+  ]
+}
+
